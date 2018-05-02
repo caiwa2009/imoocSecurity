@@ -28,6 +28,8 @@ target/
 /idea/
 *.ipr
 *.iws
+.svn/
+
 
 # temp file
 
